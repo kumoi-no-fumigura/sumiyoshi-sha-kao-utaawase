@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sumiyoshi-sha-kao-utaawase",
  "yomi": "すみよししゃうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "嘉応2年（1170）",
+  "author": "勧進 道因／判者 藤原俊成",
+  "desc": "道因法師が勧めて住吉社に奉納した歌合。社頭月・旅宿時雨・述懐の三題で、実定・実房・俊恵・清輔・小侍従ら多くの歌人が詠み、俊成が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
